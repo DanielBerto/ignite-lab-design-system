@@ -1,1 +1,0 @@
-# ignite-lab-design-system
